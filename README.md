@@ -13,8 +13,10 @@
 
 ---
 
-<!-- SCREENSHOT: Title screen -->
-<!-- Add: screenshots/title.png -->
+![Title Screen](CGoD1.png)
+![Fighter Select](CGoD2.png)
+![Fight!](CGoD3.png)
+![K.O.](CGoD4.png)
 
 ---
 
